@@ -208,7 +208,7 @@ nav a:focus {
 /* home-hero */
 
 .home-hero {
-  background: url(Images/hero-bg.jpg);
+  background: url(../Images/hero-bg.jpg);
   background-size: cover;
   background-position: center;
   padding: 10em 0 0 0;
@@ -261,7 +261,7 @@ nav a:focus {
     font-size: 2.5rem;
   }
   .home-about {
-    background: url(/navbar/Images/who-we-are.jpg);
+    background: url(../Images/who-we-are.jpg);
     background-repeat: no-repeat;
     padding: 10em;
   }
