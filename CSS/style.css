@@ -208,7 +208,7 @@ nav a:focus {
 /* home-hero */
 
 .home-hero {
-  background: url(/navbar/Images/hero-bg.jpg);
+  background: url(Images/hero-bg.jpg);
   background-size: cover;
   background-position: center;
   padding: 10em 0 0 0;
